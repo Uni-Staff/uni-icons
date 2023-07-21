@@ -1,466 +1,466 @@
 {
   "activity": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/activity/uni-activity-warning.svg"
   },
   "admin": {
-    "ban": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-ban.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-danger.svg",
-    "def": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-def.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-info.svg",
-    "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-join.svg",
-    "kick": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-kick.svg",
-    "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-leave.svg",
-    "mute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-mute.svg",
-    "return": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-return.svg",
+    "ban": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-ban.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-danger.svg",
+    "def": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-def.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-info.svg",
+    "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-join.svg",
+    "kick": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-kick.svg",
+    "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-leave.svg",
+    "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-mute.svg",
+    "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-return.svg",
     "role": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-roleAdd.svg",
-      "remove": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-roleRemove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-roleAdd.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-roleRemove.svg"
     },
     "stage": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageMove.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-success.svg",
-    "unBun": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unBun.svg",
-    "unDef": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unDef.svg",
-    "unMute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unMute.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-success.svg",
+    "unBun": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unBun.svg",
+    "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unDef.svg",
+    "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unMute.svg",
     "voice": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-voiceMove.svg"
     },
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-warning.svg"
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-warning.svg"
   },
   "bot": {
-    "ban": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-ban.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-danger.svg",
-    "def": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-def.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-info.svg",
-    "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-join.svg",
-    "kick": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-kick.svg",
-    "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-leave.svg",
-    "mute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-mute.svg",
-    "return": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-return.svg",
+    "ban": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-ban.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-danger.svg",
+    "def": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-def.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-info.svg",
+    "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-join.svg",
+    "kick": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-kick.svg",
+    "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-leave.svg",
+    "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-mute.svg",
+    "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-return.svg",
     "role": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-roleAdd.svg",
-      "remove": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-roleRemove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-roleAdd.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-roleRemove.svg"
     },
     "stage": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageMove.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-success.svg",
-    "unBun": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unBun.svg",
-    "unDef": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unDef.svg",
-    "unMute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unMute.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-success.svg",
+    "unBun": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unBun.svg",
+    "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unDef.svg",
+    "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unMute.svg",
     "voice": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-voiceMove.svg"
     },
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-warning.svg"
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-warning.svg"
   },
   "categoryChannel" : {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-create.svg",
-    "denger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-create.svg",
+    "denger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-permissionEdit.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-warning.svg"
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-warning.svg"
   },
   "close": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-info.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-info.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/close/uni-close-warning.svg"
   },
   "command": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/command/uni-command-warning.svg"
   },
   "date": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/date/uni-date-warning.svg"
   },
   "def": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/def/uni-def-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/def/uni-def-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/def/uni-def-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/def/uni-def-info.svg"
   },
   "delete": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/delete/uni-delete-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/delete/uni-delete-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/delete/uni-delete-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/delete/uni-delete-info.svg"
   },
   "disable": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/disable/uni-disable-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/disable/uni-disable-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/disable/uni-disable-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/disable/uni-disable-info.svg"
   },
   "edit": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/edit/uni-edit-warning.svg"
   },
   "emoji": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/emoji/uni-emoji-warning.svg"
   },
   "enable": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/enable/uni-enable-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/enable/uni-enable-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/enable/uni-enable-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/enable/uni-enable-success.svg"
   },
   "event": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-info.svg",
-    "play": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-play.svg",
-    "stop": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-stop.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-info.svg",
+    "play": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-play.svg",
+    "stop": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-stop.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/event/uni-event-warning.svg"
   },
   "forumChannel": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-permissionEdit.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-warning.svg"
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/forumChannel/uni-forumChannel-warning.svg"
   },
   "guild": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/guild/uni-guild-warning.svg"
   },
   "hammer": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/hammer/uni-hammer-warning.svg"
   },
   "headset": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/headset/uni-headset-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/headset/uni-headset-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/headset/uni-headset-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/headset/uni-headset-success.svg"
   },
   "info": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/info/uni-info-warning.svg"
   },
   "kick": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/kick/uni-kick-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/kick/uni-kick-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/kick/uni-kick-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/kick/uni-kick-info.svg"
   },
   "language": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/language/uni-language-warning.svg"
   },
   "member": {
-    "ban": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-ban.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-danger.svg",
-    "def": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-def.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-info.svg",
-    "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-join.svg",
-    "kick": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-kick.svg",
-    "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-leave.svg",
-    "mute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-mute.svg",
-    "return": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-return.svg",
+    "ban": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-ban.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-danger.svg",
+    "def": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-def.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-info.svg",
+    "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-join.svg",
+    "kick": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-kick.svg",
+    "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-leave.svg",
+    "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-mute.svg",
+    "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-return.svg",
     "role": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-add.svg",
-      "remove": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-add.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-remove.svg"
     },
     "stage": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageMove.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-success.svg",
-    "unBan": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unBan.svg",
-    "unDef": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unDef.svg",
-    "unMute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unMute.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-success.svg",
+    "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unBan.svg",
+    "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unDef.svg",
+    "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unMute.svg",
     "voice": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-voiceMove.svg"
     },
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-warning.svg"
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-warning.svg"
   },
   "message": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/message/uni-message-warning.svg"
   },
   "microphone": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/microphone/uni-microphone-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/microphone/uni-microphone-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/microphone/uni-microphone-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/microphone/uni-microphone-success.svg"
   },
   "minus": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/minus/uni-minus-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/minus/uni-minus-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/minus/uni-minus-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/minus/uni-minus-info.svg"
   },
   "moderator": {
-    "ban": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-ban.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-danger.svg",
-    "def": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-def.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-info.svg",
-    "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-join.svg",
-    "kick": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-kick.svg",
-    "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-leave.svg",
-    "mute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-mute.svg",
-    "return": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-return.svg",
+    "ban": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-ban.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-danger.svg",
+    "def": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-def.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-info.svg",
+    "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-join.svg",
+    "kick": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-kick.svg",
+    "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-leave.svg",
+    "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-mute.svg",
+    "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-return.svg",
     "role": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-add.svg",
-      "remove": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-add.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-remove.svg"
     },
     "stage": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageMove.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-success.svg",
-    "unBan": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unBan.svg",
-    "unDef": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unDef.svg",
-    "unMute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unMute.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-success.svg",
+    "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unBan.svg",
+    "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unDef.svg",
+    "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unMute.svg",
     "voice": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-voiceMove.svg"
     },
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-warning.svg"
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-warning.svg"
   },
   "module": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/module/uni-module-warning.svg"
   },
   "mute": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/mute/uni-mute-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/mute/uni-mute-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/mute/uni-mute-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/mute/uni-mute-info.svg"
   },
   "newsChannel": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-permissionEdit.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-warning.svg"
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/newsChannel/uni-newsChannel-warning.svg"
   },
   "open": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/open/uni-open-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/open/uni-open-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/open/uni-open-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/open/uni-open-success.svg"
   },
   "owner": {
-    "ban": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-ban.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-danger.svg",
-    "def": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-def.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-info.svg",
-    "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-join.svg",
-    "kick": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-kick.svg",
-    "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-leave.svg",
-    "mute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-mute.svg",
-    "return": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-return.svg",
+    "ban": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-ban.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-danger.svg",
+    "def": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-def.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-info.svg",
+    "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-join.svg",
+    "kick": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-kick.svg",
+    "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-leave.svg",
+    "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-mute.svg",
+    "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-return.svg",
     "role": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-add.svg",
-      "remove": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-add.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-remove.svg"
     },
     "stage": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageMove.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-success.svg",
-    "unBan": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unBan.svg",
-    "unDef": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unDef.svg",
-    "unMute": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unMute.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-success.svg",
+    "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unBan.svg",
+    "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unDef.svg",
+    "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unMute.svg",
     "voice": {
-      "join": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceJoin.svg",
-      "leave": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceLeave.svg",
-      "move": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceMove.svg"
+      "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceJoin.svg",
+      "leave": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceLeave.svg",
+      "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-voiceMove.svg"
     },
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-warning.svg"
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-warning.svg"
   },
   "pause": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/pause/uni-pause-info.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/pause/uni-pause-warning.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/pause/uni-pause-info.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/pause/uni-pause-warning.svg"
   },
   "permission": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/permission/uni-permission-warning.svg"
   },
   "ping": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/ping/uni-ping-warning.svg"
   },
   "play": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/play/uni-play-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/play/uni-play-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/play/uni-play-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/play/uni-play-success.svg"
   },
   "plus": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/plus/uni-plus-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/plus/uni-plus-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/plus/uni-plus-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/plus/uni-plus-success.svg"
   },
   "return": {
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/return/uni-return-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/return/uni-return-success.svg"
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/return/uni-return-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/return/uni-return-success.svg"
   },
   "role": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/role/uni-role-warning.svg"
   },
   "save": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/save/uni-save-warning.svg"
   },
   "settings": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-warning.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/settings/uni-settings-warning.svg"
   },
   "soundBoard": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/soundBoard/uni-soundBoard-warning.svg"
   },
   "stageChannel": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-permissionEdit.svg"
     },
-    "play": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-play.svg",
-    "stop": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-stop.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-warning.svg"
+    "play": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-play.svg",
+    "stop": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-stop.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stageChannel/uni-stageChannel-warning.svg"
   },
   "sticker": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/sticker/uni-sticker-warning.svg"
   },
   "stop": {
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stop/uni-stop-danger.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stop/uni-stop-info.svg"
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stop/uni-stop-danger.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/stop/uni-stop-info.svg"
   },
   "textChannel": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-permissionEdit.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-warning.svg"
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/textChannel/uni-textChannel-warning.svg"
   },
   "threadChannel": {
-    "close": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-close.svg",
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-info.svg",
-    "lock": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-lock.svg",
-    "open": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-open.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-warning.svg"
+    "close": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-close.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-info.svg",
+    "lock": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-lock.svg",
+    "open": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-open.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/threadChannel/uni-threadChannel-warning.svg"
   },
   "voiceChannel": {
     "activity": {
-      "start": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-activityStart.svg",
-      "stop": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-activityStop.svg"
+      "start": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-activityStart.svg",
+      "stop": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-activityStop.svg"
     },
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-info.svg",
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-info.svg",
     "permission": {
-      "add": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionAdd.svg",
-      "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionDelete.svg",
-      "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionEdit.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionAdd.svg",
+      "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionDelete.svg",
+      "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-permissionEdit.svg"
     },
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-warning.svg"
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/voiceChannel/uni-voiceChannel-warning.svg"
   },
   "webhook": {
-    "create": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-create.svg",
-    "danger": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-danger.svg",
-    "delete": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-delete.svg",
-    "edit": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-edit.svg",
-    "info": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-info.svg",
-    "success": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-success.svg",
-    "warning": "https:/raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-warning.svg"
+    "create": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-create.svg",
+    "danger": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-danger.svg",
+    "delete": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-delete.svg",
+    "edit": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-edit.svg",
+    "info": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-info.svg",
+    "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-success.svg",
+    "warning": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/webhook/uni-webhook-warning.svg"
   }
 }
