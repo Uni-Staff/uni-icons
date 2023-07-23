@@ -26,7 +26,7 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageMove.svg"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-success.svg",
-    "unBun": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unBun.svg",
+    "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unBan.svg",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unDef.svg",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unMute.svg",
     "voice": {
@@ -57,7 +57,7 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageMove.svg"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-success.svg",
-    "unBun": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unBun.svg",
+    "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unBan.svg",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unDef.svg",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unMute.svg",
     "voice": {
@@ -198,8 +198,8 @@
     "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-mute.svg",
     "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-return.svg",
     "role": {
-      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-add.svg",
-      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-roleAdd.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-roleRemove.svg"
     },
     "stage": {
       "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageJoin.svg",
@@ -245,8 +245,8 @@
     "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-mute.svg",
     "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-return.svg",
     "role": {
-      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-add.svg",
-      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-roleAdd.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-roleRemove.svg"
     },
     "stage": {
       "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageJoin.svg",
@@ -304,8 +304,8 @@
     "mute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-mute.svg",
     "return": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-return.svg",
     "role": {
-      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-add.svg",
-      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-role-remove.svg"
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-roleAdd.svg",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-roleRemove.svg"
     },
     "stage": {
       "join": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageJoin.svg",
