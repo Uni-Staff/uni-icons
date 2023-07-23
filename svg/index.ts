@@ -67,7 +67,7 @@ export default {
     },
     warning: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-warning.svg",
   },
-  categoryChannel : {
+  categoryChannel: {
     create: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-create.svg",
     denger: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-danger.svg",
     delete: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/categoryChannel/uni-categoryChannel-delete.svg",
