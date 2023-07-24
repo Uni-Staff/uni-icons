@@ -26,6 +26,10 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-stageMove.png"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-success.png",
+    "timeout": {
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-timeoutAdd.png",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-timeoutRemove.png"
+    },
     "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-unBan.png",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-unDef.png",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/admin/uni-admin-unMute.png",
@@ -57,6 +61,10 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-stageMove.png"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-success.png",
+    "timeout": {
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-timeoutAdd.png",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-timeoutRemove.png"
+    },
     "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-unBan.png",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-unDef.png",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/bot/uni-bot-unMute.png",
@@ -207,6 +215,10 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-stageMove.png"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-success.png",
+    "timeout": {
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-timeoutAdd.png",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-timeoutRemove.png"
+    },
     "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-unBan.png",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-unDef.png",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/member/uni-member-unMute.png",
@@ -254,6 +266,10 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-stageMove.png"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-success.png",
+    "timeout": {
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-timeoutAdd.png",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-timeoutRemove.png"
+    },
     "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-unBan.png",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-unDef.png",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/moderator/uni-moderator-unMute.png",
@@ -313,6 +329,10 @@
       "move": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-stageMove.png"
     },
     "success": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-success.png",
+    "timeout": {
+      "add": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-timeoutAdd.png",
+      "remove": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-timeoutRemove.png"
+    },
     "unBan": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-unBan.png",
     "unDef": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-unDef.png",
     "unMute": "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/png/owner/uni-owner-unMute.png",

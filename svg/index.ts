@@ -26,6 +26,10 @@ export default {
       move: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-stageMove.svg",
     },
     success: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-success.svg",
+    timeout: {
+      add: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-timeoutAdd.svg",
+      remove: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-timeoutRemove.svg"
+    },
     unBan: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unBan.svg",
     unDef: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unDef.svg",
     unMute: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/admin/uni-admin-unMute.svg",
@@ -57,6 +61,10 @@ export default {
       move: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-stageMove.svg",
     },
     success: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-success.svg",
+    timeout: {
+      add: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-timeoutAdd.svg",
+      remove: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-timeoutRemove.svg"
+    },
     unBan: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unBan.svg",
     unDef: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unDef.svg",
     unMute: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/bot/uni-bot-unMute.svg",
@@ -207,6 +215,10 @@ export default {
       move: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-stageMove.svg",
     },
     success: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-success.svg",
+    timeout: {
+      add: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-timeoutAdd.svg",
+      remove: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-timeoutRemove.svg"
+    },
     unBan: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unBan.svg",
     unDef: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unDef.svg",
     unMute: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/member/uni-member-unMute.svg",
@@ -254,6 +266,10 @@ export default {
       move: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-stageMove.svg",
     },
     success: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-success.svg",
+    timeout: {
+      add: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-timeoutAdd.svg",
+      remove: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-timeoutRemove.svg"
+    },
     unBan: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unBan.svg",
     unDef: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unDef.svg",
     unMute: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/moderator/uni-moderator-unMute.svg",
@@ -313,6 +329,10 @@ export default {
       move: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-stageMove.svg",
     },
     success: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-success.svg",
+    timeout: {
+      add: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-timeoutAdd.svg",
+      remove: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-timeoutRemove.svg"
+    },
     unBan: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unBan.svg",
     unDef: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unDef.svg",
     unMute: "https://raw.githubusercontent.com/Uni-Staff/uni-icons/main/svg/owner/uni-owner-unMute.svg",
